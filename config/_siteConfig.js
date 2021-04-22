@@ -10,7 +10,7 @@ import theCMS from '../cms/netlify/cms'
  */
 export default {
   siteName: 'TekNord',
-  tagline: 'A Nuxt.js Theme foreloquent-booth-acf560.netlify.app Netlify CMS',
+  tagline: 'Simplifying the complex with simple digital solutions!',
   featureImage: '/uploads/home-hero.jpg',
   logo: 'logo-component', // 'logo-component', // or '/logo.svg' for regular image
   googleAnalytics: {
